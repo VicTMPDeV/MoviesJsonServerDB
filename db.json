@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Dancing Lady",
-      "poster": "http://dummyimage.com/400x600.png/cc0000/ffffff",
+      "poster": "https://play-lh.googleusercontent.com/seDREQxndRpV-SjCC9o4hjsMmF52tjwxnaZ75x5k-Zm0R077XPRZBKZ0yV-6bXy4oT6b=w240-h480-rw",
       "genre": ["Comedy", "Musical", "Romance"],
       "year": 2006,
       "duration": 161,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Mooring, The",
-      "poster": "http://dummyimage.com/400x600.png/dddddd/000000",
+      "poster": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/2/w1280/vmKVgNsFox7KvWDQtrRNHdJue0g.jpg",
       "genre": ["Horror", "Thriller"],
       "year": 1987,
       "duration": 187,
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Black Rain (Kuroi ame)",
-      "poster": "http://dummyimage.com/400x600.png/5fa2dd/ffffff",
+      "poster": "https://pics.filmaffinity.com/Black_Rain-610020957-large.jpg",
       "genre": ["Drama", "War"],
       "year": 2010,
       "duration": 175,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "title": "Spring Break Shark Attack",
-      "poster": "http://dummyimage.com/400x600.png/cc0000/ffffff",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxODc5NTE5M15BMl5BanBnXkFtZTcwMTkwODIzMQ@@._V1_FMjpg_UX1000_.jpg",
       "genre": ["Adventure", "Drama", "Horror"],
       "year": 1985,
       "duration": 190,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "title": "Eulogy",
-      "poster": "http://dummyimage.com/400x600.png/ff4444/ffffff",
+      "poster": null,
       "genre": ["Comedy", "Crime", "Drama"],
       "year": 1993,
       "duration": 117,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "title": "V/H/S: Viral",
-      "poster": "http://dummyimage.com/400x600.png/dddddd/000000",
+      "poster": "https://pics.filmaffinity.com/V_H_S_Viral-810816794-large.jpg",
       "genre": ["Horror", "Thriller"],
       "year": 1995,
       "duration": 239,
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "title": "Venus Wars (Venus Senki)",
-      "poster": "http://dummyimage.com/400x600.png/cc0000/ffffff",
+      "poster": "https://pics.filmaffinity.com/Venus_Wars-310436001-mmed.jpg",
       "genre": ["Action", "Animation", "Sci-Fi", "War"],
       "year": 1992,
       "duration": 67,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "title": "Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira)",
-      "poster": null,
+      "poster": "https://pics.filmaffinity.com/gojira_vs_mekagojira-821671326-large.jpg",
       "genre": ["Action", "Drama", "Sci-Fi"],
       "year": 1993,
       "duration": 121,
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "title": "Alien Nation: The Udara Legacy",
-      "poster": "http://dummyimage.com/400x600.png/5fa2dd/ffffff",
+      "poster": "http://3.bp.blogspot.com/-KIDU7g19pMw/Tk_jUOFBX7I/AAAAAAAAGQM/OnvF8J19Tm4/w1200-h630-p-k-no-nu/40.jpg",
       "genre": ["Sci-Fi"],
       "year": 1997,
       "duration": 125,
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "title": "Butterflies Have No Memories",
-      "poster": "http://dummyimage.com/400x600.png/dddddd/000000",
+      "poster": "https://pics.filmaffinity.com/Butterflies_Have_No_Memories-934397349-mmed.jpg",
       "genre": [],
       "year": 1990,
       "duration": 73,
